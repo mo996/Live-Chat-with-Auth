@@ -1,5 +1,8 @@
 # chat
 
+![This is an image](Animation1.gif)
+![This is an image](Animation2.gif)
+
 ## Project setup
 ```
 npm install
