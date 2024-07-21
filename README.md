@@ -1,7 +1,7 @@
 # chat
 
-![This is an image](Animation1.gif)
-![This is an image](Animation2.gif)
+![This is an image](Animation.gif)
+
 
 ## Project setup
 ```
